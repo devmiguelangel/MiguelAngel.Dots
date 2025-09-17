@@ -1,0 +1,140 @@
+{
+  "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+  "workbench.tree.enableStickyScroll": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.editor.enablePreview": true,
+  "window.title": "${rootName}${separator}${activeFolderMedium}${separator}${dirty}${activeEditorShort}${separator}",
+  "security.workspace.trust.untrustedFiles": "open",
+  "cSpell.language": "en,es",
+  "explorer.autoReveal": true,
+  "explorer.compactFolders": false,
+  "search.defaultViewMode": "tree",
+  "editor.fontFamily": "Cascadia Mono, Consolas, Courier New, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.fontWeight": "400",
+  "editor.wordWrap": "off",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.guides.highlightActiveBracketPair": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.rulers": [
+    120
+  ],
+  "editor.wordWrapColumn": 120,
+  "editor.detectIndentation": false,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.fontLigatures.enabled": true,
+  "terminal.integrated.suggest.inlineSuggestion": "alwaysOnTop",
+  "terminal.integrated.suggest.enabled": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "scm.compactFolders": false,
+  "scm.defaultViewMode": "tree",
+  "scm.alwaysShowRepositories": true,
+  "git.openRepositoryInParentFolders": "always",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": true
+  },
+  "[json][jsonc]": {
+    "editor.formatOnSave": false,
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "editor.tabSize": 2,
+    "gitlens.codeLens.scopes": [
+      "document"
+    ],
+  },
+  "yaml.schemas": {
+    "Kubernetes": [
+      "*.yaml"
+    ],
+  },
+  "[php]": {
+    "editor.tabSize": 4
+  },
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.formatOnType": true
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[typescript][typescriptreact]": {
+    "editor.tabSize": 2
+  },
+  "[vue]": {
+    "editor.tabSize": 2,
+  },
+  "[css]": {
+    "editor.tabSize": 2
+  },
+  "[postcss]": {
+    "editor.tabSize": 2
+  },
+  "[dockerfile]": {
+    "editor.quickSuggestions": {
+      "other": "on",
+      "comments": "on",
+      "strings": "on"
+    },
+    "editor.tabSize": 2
+  },
+  "[shellscript]": {
+    "editor.tabSize": 2
+  },
+  "[github-actions-workflow]": {
+    "editor.tabSize": 2,
+  },
+  "[plantuml]": {
+    "editor.tabSize": 2,
+  },
+"plantuml.exportSubFolder": false,
+  "redhat.telemetry.enabled": true,
+  "workbench.colorTheme": "Dracula Theme",
+  "chat.agent.enabled": true,
+  "remote.defaultExtensionsIfInstalledLocally": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "GitHub.vscode-pull-request-github"
+  ],
+  "git.confirmSync": false,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "cSpell.ignoreWords": [
+    "nuxt"
+  ],
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascriptreact": "javascript",
+    "typescriptreact": "typescript"
+  },
+  "emmet.useInlineCompletions": true,
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/var/folders/tb/gv0qfb3x4ks8gwd2kc5l5xh00000gn/T/postman-collections-post-response.instructions.md": true,
+    "/var/folders/tb/gv0qfb3x4ks8gwd2kc5l5xh00000gn/T/postman-collections-pre-request.instructions.md": true,
+    "/var/folders/tb/gv0qfb3x4ks8gwd2kc5l5xh00000gn/T/postman-folder-post-response.instructions.md": true,
+    "/var/folders/tb/gv0qfb3x4ks8gwd2kc5l5xh00000gn/T/postman-folder-pre-request.instructions.md": true,
+    "/var/folders/tb/gv0qfb3x4ks8gwd2kc5l5xh00000gn/T/postman-http-request-post-response.instructions.md": true,
+    "/var/folders/tb/gv0qfb3x4ks8gwd2kc5l5xh00000gn/T/postman-http-request-pre-request.instructions.md": true
+  }
+}
