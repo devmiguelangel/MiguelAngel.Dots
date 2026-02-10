@@ -6,10 +6,9 @@
 # theme = Snazzy Soft
 # theme = Atom
 # theme = Sublette
-# theme = Oceanic-Next
 # theme = Monokai Pro Machine
 theme = Kanagawa Wave
-background-opacity = 0.95
+background-opacity = 0.9
 background-blur-radius = 20
 
 # background = #000000
@@ -38,10 +37,11 @@ palette = 13=#92A2D5
 palette = 14=#85B5BA
 palette = 15=#C9C7CD
 
-font-family = Hack
-font-size = 16
+# font-family = Hack
+font-family = Iosevka Nerd Font
+font-size = 16.5
 font-style = Medium
-font-style-bold = Normal
+font-style-bold = Medium
 font-style-italic = Medium
 font-style-bold-italic = Medium
 bold-is-bright = true
