@@ -1,0 +1,102 @@
+{
+    "cursor.preferNotificationsSameAsChat": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.commandCenter": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.orientation": "vertical",
+    "workbench.tree.enableStickyScroll": true,
+    "workbench.list.smoothScrolling": true,
+    "workbench.editor.enablePreview": true,
+    "explorer.autoReveal": true,
+    "search.defaultViewMode": "tree",
+    "cSpell.language": "en,es",
+    "editor.fontFamily": "Cascadia Mono, Consolas, Courier New, monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "400",
+    "editor.wordWrap": "off",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.rulers": [
+        120
+    ],
+    "editor.wordWrapColumn": 120,
+    "editor.detectIndentation": false,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "Iosevka Nerd Font",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.suggest.inlineSuggestion": "alwaysOnTop",
+    "terminal.integrated.suggest.enabled": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "scm.compactFolders": false,
+    "scm.defaultViewMode": "tree",
+    "scm.alwaysShowRepositories": false,
+    "git.openRepositoryInParentFolders": "always",
+    "[json][jsonc]": {
+        "editor.formatOnSave": false,
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace",
+        "editor.tabSize": 2,
+        "gitlens.codeLens.scopes": [
+            "document"
+        ]
+    },
+    "yaml.schemas": {
+        "Kubernetes": [
+            "*.yaml"
+        ]
+    },
+    "[php]": {
+        "editor.tabSize": 4
+    },
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.formatOnType": true
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[typescript][typescriptreact]": {
+        "editor.tabSize": 2
+    },
+    "[vue]": {
+        "editor.tabSize": 2
+    },
+    "[dockerfile]": {
+        "editor.quickSuggestions": {
+            "other": "on",
+            "comments": "on",
+            "strings": "on"
+        },
+        "editor.tabSize": 2
+    },
+    "[shellscript]": {
+        "editor.tabSize": 2
+    },
+    "[github-actions-workflow]": {
+        "editor.tabSize": 2
+    },
+    "[plantuml]": {
+        "editor.tabSize": 2
+    },
+    "php.validate.executablePath": "/opt/homebrew/opt/php@8.3/bin/php",
+    "plantuml.exportSubFolder": false,
+    "redhat.telemetry.enabled": true,
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)"
+}
