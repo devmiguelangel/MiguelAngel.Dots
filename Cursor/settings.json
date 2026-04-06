@@ -3,10 +3,10 @@
     "security.workspace.trust.untrustedFiles": "open",
     "window.commandCenter": true,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.activityBar.orientation": "vertical",
     "workbench.tree.enableStickyScroll": true,
     "workbench.list.smoothScrolling": true,
     "workbench.editor.enablePreview": true,
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
     "explorer.autoReveal": true,
     "search.defaultViewMode": "tree",
     "cSpell.language": "en,es",
@@ -97,6 +97,5 @@
     },
     "php.validate.executablePath": "/opt/homebrew/opt/php@8.3/bin/php",
     "plantuml.exportSubFolder": false,
-    "redhat.telemetry.enabled": true,
-    "workbench.colorTheme": "Monokai Pro (Filter Octagon)"
+    "redhat.telemetry.enabled": true
 }
