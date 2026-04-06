@@ -2,7 +2,9 @@
 # ~/Library/Application Support/com.mitchellh.ghostty/config
 
 # window-theme = system
-theme = Kanagawa Wave
+# theme = Kanagawa Wave
+# theme = TokyoNight
+theme = Vercel
 background-opacity = 0.95
 background-blur-radius = 20
 
@@ -34,7 +36,7 @@ palette = 15=#C9C7CD
 
 # font-family = Hack
 font-family = Iosevka Nerd Font
-font-size = 16.5
+font-size = 17
 font-style = Medium
 font-style-bold = Medium
 font-style-italic = Medium
