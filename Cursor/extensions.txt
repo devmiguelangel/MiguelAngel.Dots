@@ -1,0 +1,17 @@
+anysphere.cursorpyright
+anysphere.remote-containers
+anysphere.remote-ssh
+bmewburn.vscode-intelephense-client
+eamodio.gitlens
+laravel.vscode-laravel
+monokai.theme-monokai-pro-vscode
+ms-azuretools.vscode-containers
+ms-azuretools.vscode-docker
+ms-python.debugpy
+ms-python.python
+pkief.material-icon-theme
+redhat.vscode-yaml
+streetsidesoftware.code-spell-checker
+streetsidesoftware.code-spell-checker-spanish
+vue.volar
+xdebug.php-debug
