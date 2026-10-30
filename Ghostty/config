@@ -9,10 +9,11 @@
 # │                                   FONT                                       │
 # └──────────────────────────────────────────────────────────────────────────────┘
 
-font-family = Iosevka Nerd Font
-# font-family = Hack
+# font-family = Iosevka Nerd Font
+font-family = "Hack"
 # font-family = JetBrains Mono
-font-size = 16
+font-size = 15
+font-feature = -calt
 # font-thicken = true
 # bold-is-bright = true
 
